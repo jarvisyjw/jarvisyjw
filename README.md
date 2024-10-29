@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jingwen Yu, a Ph.D. Candidate of Robotics Institute @HKUST, affiliated with Shenzhen Key Laboratory of Robotics and Computer Vision Lab @SUSTech. Find more about me via my [personal website](https://jingwenyust.github.io/).
+I am Jingwen Yu, a Ph.D. Candidate of CKS-Robotics Institute @HKUST, affiliated with Shenzhen Key Laboratory of Robotics and Computer Vision Lab @SUSTech. Find more about me via my [personal website](https://jingwenyust.github.io/).
 
 <!--
 **jarvisyjw/jarvisyjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
